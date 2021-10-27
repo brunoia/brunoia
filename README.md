@@ -4,6 +4,10 @@ A highly motivated Front-End Web Developer that is always looking for new challe
 
 - 💻 Working on my portfolio.
 - 📚 Currently improving React skills and learning Node.
+<!-- <div align="start">
+  <a href="https://www.linkedin.com/in/bruno-ildebrando-almeida/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div> -->
 
 ### 🛠 Languages and tools
 <div align="start">
@@ -18,7 +22,7 @@ A highly motivated Front-End Web Developer that is always looking for new challe
 
 <br><br>
 
-<div align="center">
+<div align="inliner">
   <a href="https://github.com/brunoia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoia&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoia&layout=compact&langs_count=7&theme=dark"/>
