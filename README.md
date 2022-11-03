@@ -2,7 +2,7 @@
 
 A highly motivated Front-End Web Developer that is always looking for new challenges.
 
-- 📚 Currently improving React skills and learning Node.
+- 📚 Currently improving React skills.
 - 💻 [PORTFOLIO](https://www.brunoialmeida.com/)!
 
 
